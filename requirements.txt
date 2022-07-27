@@ -15,3 +15,9 @@ sympy>=1.10.1
 # Machine learning ----------------------------
 sklearn
 seaborn
+
+#!pip install pandas
+##!pip install matplotlib
+#!pip install sklearn
+#!pip install seaborn
+#!pip install scipy
